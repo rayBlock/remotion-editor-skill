@@ -12,12 +12,22 @@ npx skills add your-username/remotion-editor
 
 ## Included Rules
 
-- **State Optimization**: Performance patterns for complex UI.
-- **Timeline Interactions**: Precise frame-to-pixel mapping and zooming.
-- **Canvas Logic**: Coordinate transformation and spatial snapping.
-- **Undo/Redo**: Reliable history management.
+### Architecture
+- **State Optimization**: High-performance React patterns for IDEs.
+- **Undo/Redo**: Robust history management for complex states.
+- **Feature Flags**: Scaling your editor with modular toggles.
+
+### Interaction
+- **Timeline Math**: Converting pixels to frames and handling drag thresholds.
+- **Timeline & Zooming**: Managing scroll restoration and scaling.
+- **Canvas Logic**: Coordinate mapping (UV) and spatial transforms.
+- **Keyboard Shortcuts**: Focus-aware hotkeys for Mac and PC.
+
+### Backend & AI
 - **Asset Lifecycle**: Local-first caching with IndexedDB.
-- **Editor-Remotion Sync**: Bridging editor data with Remotion compositions.
+- **Rendering Pipeline**: State-machine based export UI.
+- **Captioning Workflow**: Multi-stage AI transcription pipelines.
+- **Editor-Remotion Sync**: Bridging the editor with the Remotion Player.
 
 ## Development
 
