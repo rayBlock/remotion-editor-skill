@@ -2,7 +2,7 @@
 name: rendering-pipeline
 description: Implementing a robust state machine for video exports
 metadata:
-  tags: rendering, lambda, progress, async
+  tags: [rendering, lambda, progress, async]
 ---
 
 # Rendering Pipeline: The Export State Machine

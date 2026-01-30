@@ -2,7 +2,7 @@
 name: keyboard-shortcuts
 description: Managing global hotkeys and focus-aware listeners
 metadata:
-  tags: shortcuts, hotkeys, accessibility, ux
+  tags: [shortcuts, hotkeys, accessibility, ux]
 ---
 
 # Keyboard Shortcuts: Global Hotkey Management

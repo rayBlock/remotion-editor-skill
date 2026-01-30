@@ -2,7 +2,7 @@
 name: captioning-workflow
 description: Managing multi-stage background tasks for AI captions
 metadata:
-  tags: captions, whisper, ai, tasks
+  tags: [captions, whisper, ai, tasks]
 ---
 
 # Captioning Workflow: Multi-Stage AI Tasks

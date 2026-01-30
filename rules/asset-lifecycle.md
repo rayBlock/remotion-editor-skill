@@ -2,7 +2,7 @@
 name: asset-lifecycle
 description: Managing remote assets and local caching for video editing
 metadata:
-  tags: assets, indexeddb, caching, blob
+  tags: [assets, indexeddb, caching, blob]
 ---
 
 # Asset Lifecycle: Local-First Editing

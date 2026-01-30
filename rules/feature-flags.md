@@ -2,7 +2,7 @@
 name: feature-flags
 description: Scaling an editor codebase with togglable features
 metadata:
-  tags: architecture, flags, scale
+  tags: [architecture, flags, scale]
 ---
 
 # Feature Flags: Building a Modular Editor

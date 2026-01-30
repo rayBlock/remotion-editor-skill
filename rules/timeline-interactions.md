@@ -2,7 +2,7 @@
 name: timeline-interactions
 description: Implementing seeking, snapping, and zooming in the timeline
 metadata:
-  tags: timeline, zooming, snapping, seeking
+  tags: [timeline, zooming, snapping, seeking]
 ---
 
 # Timeline Interactions

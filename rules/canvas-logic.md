@@ -2,7 +2,7 @@
 name: canvas-logic
 description: Handling interactive elements and spatial snapping on the canvas
 metadata:
-  tags: canvas, layout, snapping, transform
+  tags: [canvas, layout, snapping, transform]
 ---
 
 # Canvas Logic: Coordinates and Transforms

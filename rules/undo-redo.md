@@ -2,7 +2,7 @@
 name: undo-redo
 description: Implementing history management for complex video states
 metadata:
-  tags: history, undo, redo, state
+  tags: [history, undo, redo, state]
 ---
 
 # Undo/Redo: Managing Project History

@@ -2,7 +2,7 @@
 name: state-optimization
 description: Using the "Many Contexts" pattern for high-performance editors
 metadata:
-  tags: state, context, performance, react
+  tags: [state, context, performance, react]
 ---
 
 # State Optimization: The "Many Contexts" Pattern

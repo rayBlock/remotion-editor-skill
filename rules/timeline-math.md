@@ -2,7 +2,7 @@
 name: timeline-math
 description: Best practices for frame-to-pixel translation and dragging
 metadata:
-  tags: math, timeline, dragging, snapping
+  tags: [math, timeline, dragging, snapping]
 ---
 
 # Timeline Math: Frames and Pixels

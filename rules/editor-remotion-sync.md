@@ -2,7 +2,7 @@
 name: editor-remotion-sync
 description: Synchronizing editor state with Remotion compositions and the Player
 metadata:
-  tags: sync, inputProps, player, composition
+  tags: [sync, inputProps, player, composition]
 ---
 
 # Editor-Remotion Synchronization
